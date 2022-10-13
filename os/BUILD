@@ -1,5 +1,4 @@
 # Standard constraint_setting and constraint_values to be used in platforms.
-licenses(["notice"])
 
 package(
     default_visibility = ["//visibility:public"],
